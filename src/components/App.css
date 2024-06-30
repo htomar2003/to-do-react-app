@@ -1,0 +1,32 @@
+@import "rsuite/dist/rsuite.css";
+
+#root{ padding: 10px; }
+.rs-picker-popup.rs-picker-popup-date
+{
+    z-index: 2400;
+    top: 250.667px !important;
+}
+
+.rs-stack
+{
+    background-color: #232934;
+}
+
+.rs-input-group.rs-input-group-inside,.rs-picker-date > .rs-input-group.rs-input-group-inside .rs-input
+{
+    background-color: #232934;
+    border: none;
+    height: 46px;
+}
+
+.rs-picker-toggle-wrapper
+{
+    width: 230px;
+}
+
+.css-1x51k4p
+{
+    display: flex;
+    align-items: center;
+}
+
